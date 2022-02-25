@@ -1,0 +1,17 @@
+{
+  "name": "docker-helper",
+  "version": "0.0.1",
+  "description": "This package is help tool for docker community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emadobito22@gmail.com",
+  "license": "MIT",
+  "bin": {
+    "docker-helper": "./bin/index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
